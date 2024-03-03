@@ -1,6 +1,6 @@
 <h2>UML</h2>
 
-![abstract-factory](https://github.com/MauricioReiis/aula-pp/assets/95887637/bc7b5f55-4098-462e-9d2a-a2c00b26664e)
+![Abstract-Factory.UML.png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2FAbstract-Factory.UML.png)
 
 <h2>TESTE</h2>
 
