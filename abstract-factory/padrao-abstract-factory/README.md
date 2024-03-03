@@ -1,6 +1,6 @@
 <h2>UML</h2>
 
-![Abstract-Factory.UML.png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2FAbstract-Factory.UML.png)
+![Abstract-Factory.UML.png](Abstract-Factory.UML.png)
 
 <h2>TESTE</h2>
 
