@@ -4,7 +4,6 @@ import org.junit.runner.RunWith;
 
 @RunWith(JUnitPlatform.class)
 @SelectClasses({
-        AppTest.class,
         CadeiaTest.class,
         DetentoFurtoBlocoTest.class,
         DetentoFurtoFactoryTest.class,
