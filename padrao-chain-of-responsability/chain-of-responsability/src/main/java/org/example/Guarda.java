@@ -7,7 +7,7 @@ public abstract class Guarda {
     protected ArrayList listaDetentos = new ArrayList();
     private Guarda guardaSuperior;
 
-    public void setFuncionarioSuperior(Guarda guardaSuperior) {
+    public void setGuardaSuperior(Guarda guardaSuperior) {
         this.guardaSuperior = guardaSuperior;
     }
 

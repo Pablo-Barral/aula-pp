@@ -4,7 +4,7 @@ public class GuardaComum extends Guarda {
 
     public GuardaComum(Guarda superior) {
         listaDetentos.add(TipoDetentoSegurancaMinima.getTipoDetentoSegurancaMinima());
-        setFuncionarioSuperior(superior);
+        setGuardaSuperior(superior);
     }
 
     public String getDescricaoCargo() {

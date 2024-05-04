@@ -6,7 +6,7 @@ public class GuardaChefe extends Guarda {
         listaDetentos.add(TipoDetentoSegurancaMedia.getTipoDetentoSegurancaMedia());
         listaDetentos.add(TipoDetentoSegurancaMinima.getTipoDetentoSegurancaMinima());
 
-        setFuncionarioSuperior(superior);
+        setGuardaSuperior(superior);
     }
 
     public String getDescricaoCargo() {
