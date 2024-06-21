@@ -26,4 +26,10 @@ public class DetentoTest {
         detento.setReclusaoStrategy( new ReclusaoComAgravante());
         assertEquals("Pena de José Teste: 6.5 anos", detento.calcularReclusao());
     }
+
+    @Test
+    void detentoSemEstrategia(){
+        Detento detento = new Detento("José Teste", 5);
+        assertEquals("Pena de José Teste: 5.0 anos", detento.calcularReclusao());
+    }
 }
