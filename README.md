@@ -1,3 +1,7 @@
+Desenvolvido durante o semestre 2024/1 sob âmbito acadêmico pelos alunos
+<b>Maurício Reis Filho e
+Pablo da Cunha Barral</b>
+
 <h1>Padrões de Criação </h1>
 
 <h2>Abstract Factory</h2>
@@ -15,6 +19,7 @@
 <h2>Builder</h2>
 
 <h3>UML</h3>
+
 ![Builder-UML.png](builder%2Fpadrao-builder%2FBuilder-UML.png)
 
 <h3>TESTES</h3>
